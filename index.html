@@ -1,23 +1,106 @@
----
-layout: default
----
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title> GAME OVER </title>
+		<meta charset="ISO-8859-1" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
 
-<div class="home">
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
 
-  <h1 class="page-heading">Posts</h1>
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">GAME OVER</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="index.html">Home</a></li>
+								<li><a href="portfolio.html">Portfolio</a></li>								
+								<li><a href="https://rodrigoodfreitas.wordpress.com/">Blog</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<div class="logo">
+								<span class="icon fa-code"></span>
+								<span class="icon fa-ra"></span>
+								<span class="icon fa-coffee"></span>
+							</div>							
+							<h2>GAME OVER</h2>
+							<p>by Rodrigo de Freitas</p>
+						</div>
+					</section>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+				<!-- Wrapper -->
+					<section id="wrapper">
 
-</div>
+						<!-- One -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/pfile2.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">SOBRE MIM</h2>
+										<p>Oi, eu sou o Goku!<br>
+											Mentira, meu nome é <strong>Rodrigo de Freitas</strong>.<br>
+											Graduando em Análise e Desenvolvimento de Sistemas do IFPB - Campus Cajazeiras, ex-intercambista através do Ciência sem Fronteiras (CsF) ...</p>
+										<a href="about.html" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+					</section>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="inner">
+							<h2 class="major">CONTATO</h2>
+							<p>Caso você queira entrar em contato comigo, basta me encontrar em alguma dessas redes sociais logo abaixo.</p>
+							<ul class="icons">
+								<li><a href="http://twitter.com/rodrigoodf" title="twitter" target="_blank" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>                    
+								<li><a href="http://www.facebook.com/rodrigo.o.d.freitas" title="facebook" target="_blank" class="icon alt fa-facebook"><span class="label">Faceboook</span></a></li>
+								<li><a href="http://instagram.com/rodrigo.d.freitas" title="instagram" target="_blank" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="https://br.linkedin.com/in/rodrigodfreitas" title="linkedin" target="_blank" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+								<li><a href="https://plus.google.com/u/0/101775114860090951172/posts" title="linkedin" target="_blank" class="icon alt fa-google-plus"><span class="label">Google Plus</span></a></li>
+								<li><a href="http://github.com/rodrigodfreitas" title="github" target="_blank" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="mailto:rodrigo.o.d.freitas@gmail.com" class="icon alt fa-envelope-o"><span class="label">Email</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li> 2016 &copy; Game Over</li>
+								<li>Made with Jekyll</li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
