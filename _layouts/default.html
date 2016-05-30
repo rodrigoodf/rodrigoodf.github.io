@@ -30,19 +30,19 @@
 
 				<!-- Wrapper -->
 					<section id="wrapper">
-						<!--<header>
+						<header>
 							<div class="inner">
-								<h2>SOBRE MIM</h2>
-								<p>Um pouco mais sobre o nerd que vos fala.</p>
+									<h1 class="post-title">{{ page.title }}</h1>
+									<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+							
 							</div>
 						</header>
-						-->
+						
 						<!-- Content -->
 							<div class="wrapper">
 								<div class="inner">
-									<div class="wrapper">
+									
 										{{ content }}
-									</div>
 								</div>
 							</div>
 
