@@ -17,14 +17,11 @@ Nunca gostei de inglês e nunca me imaginava falando o idioma, mas aí você dev
 
 Até o momento de viajar, eu não me preocupava em falar inglês, minha preocupação era a adaptação com o local (clima, cultura e esse tipo de coisa), o que na verdade foi o mais fácil. 
 
-[](https://raw.githubusercontent.com/rodrigodfreitas/rodrigodfreitas.github.io/master/images/clima.jpg)
+![](https://raw.githubusercontent.com/rodrigodfreitas/rodrigodfreitas.github.io/master/images/clima.jpg)[](https://raw.githubusercontent.com/rodrigodfreitas/rodrigodfreitas.github.io/master/images/chegando.jpg)
 
 Eu posso dizer que nunca vi inglês na minha vida, afinal, eu nunca prestava atenção nessas aulas que não envolviam cálculo, mas pra minha sorte eu sempre escutei música estrangeira, assistia filme e séries legendados, o que facilitou muito pra mim, afinal, eu entendia o que eles falavam (muitas vezes pelo contexto).
 
 O que realmente me deixou em pânico foi quando eu cheguei já no aeroporto de Chicago, fui pedir informação e para o meu azar saí justamente na ala onde só haviam asiáticos e nenhum falava alguma língua que eu entendesse. Nessas horas usei o bom e velho Google Tradutor e comecei a conversar com as pessoas digitando mesmo. Acabei chegando no lugar certo, mas aí foi que eu comecei a pensar: O que diacho eu estou fazendo? 
-
-
-[](https://raw.githubusercontent.com/rodrigodfreitas/rodrigodfreitas.github.io/master/images/chegando.jpg)
 
 Com muita sorte cheguei na minha cidade destino, onde um senhor muito legal já estava me esperando pra me levar para a faculdade (*Western Illinois University* - WIU), onde tive uma das melhores experiências da minha vida (mas isso fica para outros posts), lá eu fiz a prova de proficiência da faculdade, e por ironia acabei caindo no nível mais avançado do curso de inglês (de certa forma isso foi muito bom, aprendi que sei me sair bem mesmo sobre pressão), onde passei 3 meses intensivos só falando com nativos e lendo em outro idioma.
 
