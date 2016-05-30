@@ -49,26 +49,24 @@
 						</header>
 
 						<!-- Content -->
-							<div class="home">
-    
-							  <div class="row post-list">
-								{% for post in site.posts %}
+							<div class="wrapper">
+								<div class="inner">
 
-								<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">    
-								  <div class="col s12 m6 l3">
-								  <span class="post-meta">{{ post.date | date: "%b, %-d, %Y" }}</span>          
-									<div class="card small">
-									  <div class="card-image">
-										<img src="{{post.image}}">            
-									  </div>
-									  <div class="card-content">  
-										<span class="card-title">{{ post.title }}</span>                                  
-									  </div>
-									</div>
-								  </div>
-								</a>       
-								{% endfor %}    
-							  </div>
+									<h3 class="major">Posts</h3>
+									<section class="features">
+										<article>
+											<a href="2015/08/02/aprendendo-ingles.html" class="image"><img src="images/posts/aprendendo-ingles.png" alt="" /></a>
+											<h3 class="major">Aprendendo Inglês Natoralmente</h3>
+											<a href="2015/08/02/aprendendo-ingles.html" class="special">Click here to read</a>
+										</article>
+										<article>
+											<a href="2015/07/26/welcome.html" class="image"><img src="images/posts/welcome.png" alt="" /></a>
+											<h3 class="major">Welcome</h3>
+											<a href="2015/07/26/welcome.html" class="special">Click here to read</a>
+										</article>
+									</section>
+
+								</div>
 							</div>
 					</section>
 
