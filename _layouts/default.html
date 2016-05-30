@@ -1,18 +1,60 @@
 <!DOCTYPE html>
 <html>
-    
-  <link rel="shortcut icon" href="images/alien.ico" type="image/x-icon"/>
+
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
    {% include head.html %}
-    
-  <body>
-         {% include header.html %}
-    
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-      
+   <body> 
+   
+   <div id="page-wrapper">
+
+				<!-- Header -->
+			    {% include header.html %}
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="/index.html">Home</a></li>
+								<li><a href="/portfolio.html">Portfolio</a></li>								
+								<li><a href="/posts.html">Voltar aos posts</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+						<header>
+							<div class="inner">
+								<h2>SOBRE MIM</h2>
+								<p>Um pouco mais sobre o nerd que vos fala.</p>
+							</div>
+						</header>
+
+						<!-- Content -->
+							<div class="wrapper">
+								<div class="inner">
+									<div class="wrapper">
+										{{ content }}
+									</div>
+								</div>
+							</div>
+
+					</section>
+
+				<!-- Footer -->
+					{% include footer.html %}
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
 
   </body>
 
