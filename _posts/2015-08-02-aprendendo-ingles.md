@@ -35,4 +35,4 @@ Pois é galera, esse post ficou muito longo (e eu até me desculpo por isso), en
 Que a força esteja com vocês e até a próxima!
 
 
-[ini]: http://rodrigodfreitas.github.io
+[ini]: http://rodrigodf.github.io

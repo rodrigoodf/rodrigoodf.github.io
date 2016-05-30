@@ -45,4 +45,4 @@ Pois é galera, continuem lendo, vendo filmes de super heróis e imaginando como
 Que a força esteja com vocês e até a próxima!
 
 
-[ini]: http://rodrigodfreitas.github.io
+[ini]: http://rodrigoodf.github.io
