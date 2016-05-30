@@ -32,17 +32,17 @@
 					<section id="wrapper">
 						<header>
 							<div class="inner">
-									<h1 class="post-title">{{ page.title }}</h1>
-									<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-							
+								<h2>{{ page.title }}</h2>
+								<p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 							</div>
 						</header>
-						
+
 						<!-- Content -->
 							<div class="wrapper">
-								<div class="inner">
-									
-										{{ content }}
+								<div class="inner">									
+									<p>
+										<article>{{ content }}</article>
+									</p>
 								</div>
 							</div>
 
