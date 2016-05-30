@@ -13,7 +13,7 @@
 		<link rel="stylesheet" href="../assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon" />
 	</head>
 	<body>
 
@@ -22,7 +22,9 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1><a href="../index.html">Game Over</a></h1>
+						<h1>
+							<a href="../index.html">Game Over</a>
+						</h1>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
@@ -54,7 +56,9 @@
 									<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
 									  <header class="post-header">
-										<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+										<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+										<span itemprop="name">{{ page.author }}</span>
+										</span>{% endif %}</p>
 									  </header>
 
 									  <div class="post-content" itemprop="articleBody">
