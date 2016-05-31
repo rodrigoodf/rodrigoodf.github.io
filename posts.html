@@ -42,15 +42,15 @@ layout: defaultPost
 									</section>
 									<nav>
 										<ul class="pager">
-										{% if paginator.next_page %}
-											<li class="previous"><a href="{{ paginator.next_page_path }}"><span aria-hidden="true">&larr;</span> Antigos</a></li>
+										{% if site.next_page %}
+											<li class="previous inner"><a href="{{ site.next_page_path }}"><span aria-hidden="true">&larr;</span> Antigos</a></li>
 												{% else %}
-											<li class="previous disabled"><a href="#"><span aria-hidden="true">&larr;</span> Antigos</a></li>
+											<li class="previous disabled inner"><a href="#"><span aria-hidden="true">&larr;</span> Antigos</a></li>
 										{% endif %}
-										{% if paginator.previous_page %}
-											<li class="next"><a href="{{ paginator.previous_page_path }}">Recentes <span aria-hidden="true">&rarr;</span></a></li>
+										{% if site.previous_page %}
+											<li class="next inner"><a href="{{ site.previous_page_path }}">Recentes <span aria-hidden="true">&rarr;</span></a></li>
 												{% else %}
-											<li class="next disabled"><a href="#">Recentes <span aria-hidden="true">&rarr;</span></a></li>
+											<li class="next disabled inner"><a href="#">Recentes <span aria-hidden="true">&rarr;</span></a></li>
 										{% endif %}
 									  </ul>
 									</nav>
