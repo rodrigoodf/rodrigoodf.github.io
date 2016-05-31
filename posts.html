@@ -2,11 +2,6 @@
 layout: defaultPost
 ---
 <!DOCTYPE HTML>
-<!--
-	Solid State by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 	<head>
 		<meta charset="utf-8">
@@ -46,13 +41,7 @@ layout: defaultPost
 
 				<!-- Wrapper -->
 					<section id="wrapper">
-						<!--<header>
-							<div class="inner">
-								<h2>BLOG</h2>
-								<p>We always need another story...</p>
-							</div>
-						</header>
--->
+					
 						<!-- Content -->
 							<div class="wrapper">
 								<div class="inner">
@@ -60,21 +49,6 @@ layout: defaultPost
 									<h3 class="major">Posts</h3>
 									<section class="features">
 									{% for post in site.posts %}
-									<!--
-									<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">    
-									  <div class="col s12 m6 l3">
-									  <span class="post-meta">{{ post.date | date: "%b, %-d, %Y" }}</span>          
-										<div class="card small">
-										  <div class="card-image">
-											<img src="{{post.image}}">            
-										  </div>
-										  <div class="card-content">  
-											<span class="card-title">{{ post.title }}</span>                                  
-										  </div>
-										</div>
-									  </div>
-									</a>     
-									-->
 										<article>
 											<a href="{{ post.url | prepend: site.baseurl }}" class="image post-link"><img src="{{post.image}}" alt="" /></a>
 											<h3 class="major">{{ post.title }}</h3>
@@ -83,45 +57,12 @@ layout: defaultPost
 										</article>
 									
 									{% endfor %} 
-<!--									
-										<article>
-											<a href="{{ post.url | prepend: site.baseurl }}" class="image post-link"><img src="{{post.image}}" alt="" /></a>
-											<h3 class="major"{{ post.title }}</h3>
-											<p>{{ post.date | date: "%b, %-d, %Y" }}</p>
-											<a href="{{ post.url | prepend: site.baseurl }}" class="special post-link">Click here to read</a>
-										</article>
-										<article>
-											<a href="2015/08/09/californication.html" class="image"><img src="images/posts/californication.png" alt="" /></a>
-											<h3 class="major">Californication</h3>
-											<a href="2015/08/09/californication.html" class="special">Click here to read</a>
-										</article>
-										<article>
-											<a href="2015/08/02/aprendendo-ingles.html" class="image"><img src="images/posts/aprendendo-ingles.png" alt="" /></a>
-											<h3 class="major">Aprendendo Inglês Natoralmente</h3>
-											<a href="2015/08/02/aprendendo-ingles.html" class="special">Click here to read</a>
-										</article>
-										<article>
-											<a href="2015/07/26/welcome.html" class="image"><img src="images/posts/welcome.png" alt="" /></a>
-											<h3 class="major">Welcome</h3>
-											<a href="2015/07/26/welcome.html" class="special">Click here to read</a>
-										</article>
-										-->
 									</section>
 
 								</div>
 							</div>
 					</section>
 
-				<!-- Footer -->
-					<!--<section id="footer">
-						<div class="inner">
-							<ul class="copyright">
-								<li> 2016 &copy; Game Over</li>
-								<li>Made with Jekyll</li>
-							</ul>
-						</div>
-					</section>
--->
 			</div>
 
 		<!-- Scripts -->
