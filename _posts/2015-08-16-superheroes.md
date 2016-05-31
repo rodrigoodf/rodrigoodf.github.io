@@ -4,7 +4,7 @@ title:  "Super???"
 date:   2015-08-16 15:07:29
 author: Rodrigo de Freitas
 comments: true
-image: /images/super.png
+image: /images/posts/superFinal.png
 ---
 
 Olá galera!

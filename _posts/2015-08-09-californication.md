@@ -4,7 +4,7 @@ title:  "Californication!"
 date:   2015-08-09 15:07:29
 author: Rodrigo de Freitas
 comments: true
-image: /images/californication.png
+image: /images/posts/californication.png
 ---
 
 Olá galera!
