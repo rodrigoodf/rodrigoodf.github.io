@@ -13,13 +13,13 @@ Faz somente uma semana que inaugurei este blog contando um pouco sobre mim (e eu
 
 Pra quem não sabe, eu sou um ex-intercâmbista pelo Ciência sem Fronteiras (CsF), fui no dia 26 de agosto de 2013 e voltei ao Brasil no dia 29 de dezembro de 2014, nesse meio termo, aprendi muito sobre várias coisas. Mas a que mais me chamou atenção foi: aprender inglês numa facilidade e rapidez impressionante.
 
-Nunca gostei de inglês e nunca me imaginava falando o idioma, mas aí você deve estar se perguntando: Então por que escolheu os Estados Unidos? Bem, a resposta não é tão simples, tudo começou comigo fazendo a inscrição para o edital de Portugal. Porém, assim como eu, mais 33.000 pessoas também tiveram a mesma (brilhante) ideia, o que fez o edital ser cancelado, mas aí chega um e-mail informando que eu poderia escolher entre 8 opções e aplicar para tal, as opções eram: EUA, Austrália, Alemanha, Itália, França, Irlanda, Reino Unido e Canadá. Eu sempre fui fascinado pelo meu curso (mesmo que às vezes não pareça), e acabei indo para o lugar onde achei que minha área fosse mais forte: EUA.
+Nunca gostei de inglês e nunca me imaginava falando o idioma, mas aí você deve estar se perguntando: Então por que escolheu os Estados Unidos? Bem, a resposta não é tão simples, tudo começou comigo fazendo a inscrição para o edital de Portugal. Porém, assim como eu, mais 33.000 pessoas também tiveram a mesma (brilhante) ideia, o que fez o edital ser cancelado, mas aí chega um (maravilhoso) e-mail informando que eu poderia escolher entre 8 opções e aplicar para tal, as opções eram: EUA, Austrália, Alemanha, Itália, França, Irlanda, Reino Unido e Canadá. Eu sempre fui fascinado pelo meu curso (mesmo que às vezes não pareça), e acabei indo para o lugar onde achei que minha área fosse mais forte: EUA.
 
 Até o momento de viajar, eu não me preocupava em falar inglês, minha preocupação era a adaptação com o local (clima, cultura e esse tipo de coisa), o que na verdade foi o mais fácil. 
 
 ![](https://raw.githubusercontent.com/rodrigoodf/rodrigoodf.github.io/master/images/posts/post/clima.jpg)
 
-Eu posso dizer que nunca vi inglês na minha vida, afinal, eu nunca prestava atenção nessas aulas que não envolviam cálculo, mas pra minha sorte eu sempre escutei música estrangeira, assistia filme e séries legendados, o que facilitou muito pra mim, afinal, eu entendia o que eles falavam (muitas vezes pelo contexto).
+Eu posso dizer que nunca vi inglês na minha vida, afinal, eu nunca prestava atenção nessas aulas que não envolviam cálculo. Mas pra minha sorte, sempre escutei música estrangeira, assisti filme e séries legendados, o que facilitou muito pra mim, afinal, eu entendia o que eles falavam (muitas vezes pelo contexto).
 
 O que realmente me deixou em pânico foi quando eu cheguei já no aeroporto de Chicago, fui pedir informação e para o meu azar saí justamente na ala onde só haviam asiáticos e nenhum falava alguma língua que eu entendesse. Nessas horas usei o bom e velho Google Tradutor e comecei a conversar com as pessoas digitando mesmo. Acabei chegando no lugar certo, mas aí foi que eu comecei a pensar: O que diacho eu estou fazendo? 
 

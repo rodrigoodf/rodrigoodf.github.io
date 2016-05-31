@@ -40,7 +40,7 @@ Já cansado e depois de ter achado o trem, voltamos para o hotel e estávamos pr
 
 Passamos um bom tempo na praia, o que nos fez andar e descobrir lugares muito legais para comer, além de comprarmos muito nesse meio termo. Foi lá que eu ganhei o melhor presente que alguém já me deu: uma figura de animação (boneco) do Buzz Lightyear, de tamanho e acessórios originais/ oficiais da Disney (sim, eu sou muito fã do Buzz!).
 
-Passamos cerca de 10 dias em Los Angeles, conhecemos vários lugares baratos, medianos, caros e Beverly Hills. Sabem de algum lugar caro? Não chega nem perto de lá, cheguei até a pensar que tivesse que pagar para andar na calçada, pra sorte do meu bolso não pagamos quase nada lá.
+Passamos cerca de 10 dias em Los Angeles, conhecemos vários lugares baratos, medianos, caros e Beverly Hills. Sabem de algum lugar caro? Não chega nem perto de lá, cheguei até a pensar que tivesse que pagar para andar na calçada, para sorte do meu bolso não pagamos quase nada lá.
 
 ![](https://raw.githubusercontent.com/rodrigoodf/rodrigoodf.github.io/master/images/posts/post/califa5.jpg)
 
@@ -48,7 +48,7 @@ A primeira coisa que conversei com meu pai, assim que voltei ao Brasil, foi sobr
 
 Um dia volto com o meu velho lá e mostro um pouco do que vi ano passado, mas até lá ele vai ter que ficar somente com a coisa que ninguém pode tirar de mim: meu respeito e grande admiração (lê-se amor) pelo meu pai, afinal, ele sim é uma lenda!
 
-Pois é galera, isso foi só um breve resumo da minha viagem pela Califórnia, obviamente tiveram muito mais para contar, mas passaria pelo menos uns 5 posts relatando coisa por coisa. Então é isso, eu fico por aqui, e vejo vocês semana que vem!
+Pois é galera, isso foi só um breve resumo da minha viagem pela Califórnia, obviamente tinha muito mais para contar, mas passaria pelo menos uns 5 posts relatando tudo. Então é isso, eu fico por aqui, e vejo vocês semana que vem!
 
 Que a força esteja com vocês e até a próxima!
 
